@@ -1,1 +1,2 @@
-# I have made a mini project based on photography web page by using CSS and HTML.
+# My First Project  
+I have made a mini project based on photography web page by using CSS and HTML.
